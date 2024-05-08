@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TykhaA/goit-react-woolf-hw-04-feedback/static/css/main.0d6747df.css",
+    "main.js": "/TykhaA/goit-react-woolf-hw-04-feedback/static/js/main.a592f6d8.js",
+    "index.html": "/TykhaA/goit-react-woolf-hw-04-feedback/index.html",
+    "main.0d6747df.css.map": "/TykhaA/goit-react-woolf-hw-04-feedback/static/css/main.0d6747df.css.map",
+    "main.a592f6d8.js.map": "/TykhaA/goit-react-woolf-hw-04-feedback/static/js/main.a592f6d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6747df.css",
+    "static/js/main.a592f6d8.js"
+  ]
+}
